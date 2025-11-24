@@ -2,7 +2,7 @@
 JCDSAH-0204 Final Project on Seller's Churn Analysis based off of Olist e-Commerce dataset.
 
 # AUTHOR
-- Margarethra Kwok
+- Margaretha Kwok
 - Naufal
 
 # General Information
