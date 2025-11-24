@@ -1,4 +1,4 @@
-# SELLERS-CHURN-ANALYSIS---OLIST-e-COIMMERCE
+# SELLERS-CHURN-ANALYSIS---OLIST-e-COMMERCE
 JCDSAH-0204 Final Project on Seller's Churn Analysis based off of Olist e-Commerce dataset.
 
 # AUTHOR
